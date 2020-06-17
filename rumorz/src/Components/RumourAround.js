@@ -3,7 +3,7 @@ import {Container,Row,Button,InputGroup,Form, Col} from 'react-bootstrap';
 import './Styling/RumourAround.css'
 function RumourAround(props) {
   return(
-    <div className='RumourAround padding'>
+    <div className='RumourAround padding mt-2'>
     <Container fluid>        
       <Row className='justify-content-left padding'>      
         <div className='RumourAroundDiv padding'>
