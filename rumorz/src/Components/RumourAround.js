@@ -10,7 +10,7 @@ function RumourAround(props) {
             {props.rumour}
         </div>                  
       </Row>
-      <Row className="RumourAroundButtonRow">
+      <Row>
         <Col style={{textAlign:'left',padding:'5px'}}>
           <Button variant='primary' size='sm'>Upvote</Button>  &nbsp;
           <Button variant='primary' size='sm'>DownVote</Button>
