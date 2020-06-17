@@ -9,9 +9,7 @@ function MainComponent() {
       <Row >
         <CreateRumour/>
       </Row>
-      <Row >
-        <RumourAround/>
-      </Row>
+      
     </Container>
   );
 }
