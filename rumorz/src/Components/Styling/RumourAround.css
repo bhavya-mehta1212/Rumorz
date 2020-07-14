@@ -1,0 +1,21 @@
+.RumourAround{
+    border: black;
+    border-width: 0.5px;
+    border-style: solid;        
+   
+}
+.padding{
+    padding: 5px;
+}
+/* .RumourAround textarea {
+    resize:none;    
+    padding:5px;        
+} */
+.fix {
+    overflow: hidden;
+}
+.RumourAroundDiv {    
+    text-align: left;
+    width: 600px;
+    height: 100px;
+}

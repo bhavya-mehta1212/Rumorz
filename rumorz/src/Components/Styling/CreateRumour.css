@@ -1,0 +1,20 @@
+.CreateRumour{
+    border: black;
+    border-width: 0.5px;
+    border-style: solid;        
+   
+}
+.padding{
+    padding: 5px;
+}
+.CreateRumour textarea {
+    resize:none;    
+    padding:5px;        
+}
+.fix {
+    overflow: hidden;
+}
+.CreateRumourTextArea {    
+    width: 600px;
+    height: 100px;
+}
