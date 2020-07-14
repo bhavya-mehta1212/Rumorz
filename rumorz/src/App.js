@@ -10,9 +10,9 @@ function App() {
   return (
     <div>
         <Header/>
-    <container>
+    <MainComponent>
       This is a container
-    </container>
+    </MainComponent>
       <Footer />
    </div>
   );

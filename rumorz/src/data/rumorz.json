@@ -1,0 +1,42 @@
+[
+    {
+    "rumorid" : 1001,
+    "rumortext": "My first rumor",
+    "CreatedBy" : "Anonymous Bug",
+    "CreatedTime" : "7/14/2020",
+    "UpdatedTime" : "7/14/2020",
+    "UpVoteCount" : 0 ,
+    "DownVoteCount":0,
+    "Status" : "NV"
+   },
+   {
+    "rumorid" : 1002,
+    "rumortext": "My second rumor",
+    "CreatedBy" : "Anonymous Bee",
+    "CreatedTime" : "7/14/2020",
+    "UpdatedTime" : "7/14/2020",
+    "UpVoteCount" : 0 ,
+    "DownVoteCount":0,
+    "Status" : "NV"
+   },
+   {
+    "rumorid" : 1003,
+    "rumortext": "My third rumor",
+    "CreatedBy" : "WontSay CantSay",
+    "CreatedTime" : "7/14/2020",
+    "UpdatedTime" : "7/14/2020",
+    "UpVoteCount" : 0 ,
+    "DownVoteCount":0,
+    "Status" : "NV"
+   },
+   {
+    "rumorid" : 1004,
+    "rumortext": "My nth rumor",
+    "CreatedBy" : "V For Vendetta",
+    "CreatedTime" : "7/14/2020",
+    "UpdatedTime" : "7/14/2020",
+    "UpVoteCount" : 0 ,
+    "DownVoteCount":0,
+    "Status" : "NV"
+   }
+  ]
